@@ -12,7 +12,9 @@
 ## Examples
 
 ![link demo input](demos/link.png "Link QRCode example")
+
 ![link demo output](demos/codes/link.png "Link QRCode example")
 
 ![text demo input](demos/text.png "Text QRCode example")
+
 ![text demo output](demos/codes/text.png "Text QRCode example")
