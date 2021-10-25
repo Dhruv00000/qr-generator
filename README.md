@@ -5,9 +5,8 @@
 3. Press `win + r`.
 4. Type `'cmd'` and press enter.
 5. Type `'cd Downloads'` and press enter.
-6. Type `'qr.py'` and press enter.
-7. Enter all the details of the qrcode when prompted.
-8. A qrcode will be placed in the output folder.
+6. Type `'pip install qrcode'` and press enter.
+7. Type `'qr.py'` and press enter.
 
 ## Examples
 
